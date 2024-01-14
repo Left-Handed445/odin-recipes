@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: rgb(77, 125, 179);
+}
+.header-title {
+  text-align: center;
+  margin: 30px 0px 30px 0px;
+}
+.recipe-img {
+  display: block;
+  margin: auto;
+  padding: 30px 0px 30px 0px;
+  width: 40vw;
+  height: 40vh;
+}
+.recipes-back-milk {
+  color: rgb(253, 66, 66);
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin: 30px 0px 30px 0px;
+}
+.recipes-back {
+  margin: 30px 0px 30px 0px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  color: rgb(248, 129, 129);
+}
+.milk-steak-decription {
+  text-align: center;
+  display: block;
+  margin: 30px 0px 30px 0px;
+  text-wrap: wrap;
+}
+.main-ingredients {
+  text-align: center;
+  display: block;
+  margin: 30px 0px 30px 0px;
+  text-wrap: wrap;
+}
+.main-ingredients h4 {
+  margin: 10px 0px 10px 0px;
+}
+.milk-steak-decription h3 {
+  padding: 10px 0px 10px 0px;
+}
+.milk-steak-decription p {
+  padding: 5px 0px 5px 0px;
+}
+.main-recipes {
+  text-align: center;
+  display: block;
+  margin: 30px 0px 30px 0px;
+}
+.main-recipes h4 {
+  padding: 10px 0px 10px 0px;
+}
+.main-recipes p {
+  padding: 5px 0px 5px 0px;
+}

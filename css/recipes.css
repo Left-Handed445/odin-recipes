@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: rgb(77, 125, 179);
+}
+.title {
+  text-align: center;
+  margin: 30px 0px 30px 0px;
+}
+.header__menu__list-item a{
+  text-decoration: none;
+  display: block;
+  margin: 30px 0px 30px 0px;
+  text-align: center;
+  color: rgb(224, 202, 202);
+}
+.recipes-back {
+  margin: 30px 0px 30px 0px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  color: rgb(248, 129, 129);;
+}
